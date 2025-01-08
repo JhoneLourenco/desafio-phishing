@@ -18,7 +18,7 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./passwd "Optional title")
 
 <img src=""="txt">
 
