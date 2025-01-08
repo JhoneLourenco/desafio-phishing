@@ -18,4 +18,13 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+<img src=""="txt">
+
+
+Devido às atualizações dos navegadores, o método de ataque "Site Cloner" pode não funcionar em todos os casos.
+
+Tive de utilizar o Método "Web Templates" e escolhi a opção "Google", como mostrado nas imagens abaixo:
+
+
+<img src="="txt">
+
